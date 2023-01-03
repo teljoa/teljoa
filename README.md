@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I study to dedicate myself to cybersecurity in the future, and in fact I am studying the higher degree of: Web application development.
 - 📫 How to contact me: **tellezjoa@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaquín garcía téllez" target= "en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" joaquín garcía téllez" height="30" width="40" /></a>
 </p>
